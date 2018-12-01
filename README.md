@@ -11,5 +11,11 @@ A small interface will show you the details and your IP address, as well as your
  3- user name
 4 -host and port for ps3
 
+https://github.com/HIASQ/PS3-SERVER/blob/master/1.jpg?raw=true
+
+
+
+
+
 http://ne-game-w.blogspot.com/
 
