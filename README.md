@@ -1,5 +1,7 @@
 # PS3-SERVER
-PS3 SERVER (custom server) powered by miniweb
+![Screenshot](1.jpg)
+
+## PS3 SERVER (custom server) powered by miniweb
 
 
 POWERED BY miniweb
