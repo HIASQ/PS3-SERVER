@@ -14,11 +14,11 @@ details
 3. user name
 4. host and port for ps3
 
-https://github.com/HIASQ/PS3-SERVER/blob/master/1.jpg?raw=true
+WEBSITE [NEW GAME](http://ne-game-w.blogspot.com/)
 
 
 
 
 
-http://ne-game-w.blogspot.com/
+
 
